@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComicsList</string>
+    <string name="close">Close</string>
+    <string name="exclude_explicit_title">Title</string>
+    <string name="description_format">Description: %s</string>
+    <string name="page_count_format">Page Count: %d</string>
+</resources>
